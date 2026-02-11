@@ -1,16 +1,17 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'PlantGuard'
+cover: './demo.png'
+external: 'https://crop-disease-predictor-liard.vercel.app/'
+github: 'https://github.com/Omkar1201/Crop-Disease-Predictor'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - React js
+  - Express js
+  - MongoDB
+  - Tailwind CSS
+  - Flask
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
+Built PlantGuard, a full-stack application that predicts plant diseases and provides causes, symptoms, and treatment.
 
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+Implemented support for 10+ regional languages, text-to-speech functionality and downloadable disease reports for user convenience using React (frontend) and Flask (backend).
