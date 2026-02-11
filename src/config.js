@@ -1,26 +1,26 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'omkarsalunkhe3597@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://github.com/Omkar1201',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/omkar-salunkhe-28784b214/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'LeetCode',
+      url: 'https://leetcode.com/u/omkar_salunkhe/',
+    },
+    {
+      name: 'Instagram',
+      url: 'https://www.instagram.com/omkar.salunkhe.04/',
+    },
+    {
+      name: 'Twitter',
+      url: 'https://x.com/omkarsa27209864',
     },
   ],
 
