@@ -1,15 +1,13 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Newsi'
+cover: './demo.jpg'
+github: 'https://github.com/Omkar1201/News_website'
+external: 'https://newsi.vercel.app/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - React js
+  - Tailwind CSS
+  - REST API
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A web news application that allows users to search and explore real-time news articles across categories, integrating external APIs for dynamic content, and developed the frontend, API handling, and responsive UI.

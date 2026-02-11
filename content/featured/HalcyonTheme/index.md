@@ -1,15 +1,13 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Knowledge Nest'
+cover: './demo.png'
+github: 'https://github.com/Omkar1201/The_Knowledge_nest_Frontend'
+external: 'https://the-knowledge-nest-1201.vercel.app/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - React js
+  - Express js
+  - MongoDB
+  - Tailwind CSS
 ---
-
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Built a user-friendly [Full-stack](https://github.com/Omkar1201/The_Knowledge_nest_Backend) blogging platform that enables users to share knowledge and interact through posts, likes, and comments, while handling frontend development, backend APIs, database integration, and authentication.
