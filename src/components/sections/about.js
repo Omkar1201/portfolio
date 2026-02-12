@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['C++', 'Java', 'MySQL', 'HTML', 'CSS', 'JavaScript', 'React js', 'Express js', 'Git', 'SAP'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,13 +135,13 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Omkar and I enjoy creating things that live on the internet. My
-              interest in web development started when I decided to try building my own websites.
+              Hello! My name is Omkar, and I enjoy working with technology and building applications. I have experience in Java, React, and MySQL, and I enjoy working on both frontend and backend development.
             </p>
-
             <p>
-              I am passionate about building accessible, inclusive products and digital experiences.
+              I like solving problems and understanding how things work behind the scenes, especially in backend development. I am continuously learning and improving my skills in Java Full Stack and cloud technologies to grow as a developer.
             </p>
+            <p>
+              I am always trying to learn something new and improve my coding skills.            </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
