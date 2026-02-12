@@ -10,4 +10,4 @@ tech:
   - MongoDB
   - Tailwind CSS
 ---
-Built a user-friendly [Full-stack](https://github.com/Omkar1201/The_Knowledge_nest_Backend) blogging platform that enables users to share knowledge and interact through posts, likes, and comments, while handling frontend development, backend APIs, database integration, and authentication.
+Built a user-friendly Full-stack blogging platform that enables users to share knowledge and interact through posts, likes, and comments, while handling frontend development, backend APIs, database integration, and authentication.
