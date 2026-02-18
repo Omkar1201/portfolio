@@ -65,8 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products.
+        I’m a tech enthusiast passionate about backend development. 
+        I build efficient, real-world applications using Java, React, and databases, 
+        and I’m always eager to learn and grow.
       </p>
     </>
   );
