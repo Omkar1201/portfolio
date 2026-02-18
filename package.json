@@ -16,7 +16,7 @@
     "postcss": "^8.3.5"
   },
   "scripts": {
-    "build": "gatsby build",
+    "build": "cross-env NODE_OPTIONS=--openssl-legacy-provider gatsby build",
     "develop": "cross-env NODE_OPTIONS=--openssl-legacy-provider gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "cross-env NODE_OPTIONS=--openssl-legacy-provider npm run develop",
