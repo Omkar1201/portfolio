@@ -135,14 +135,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Omkar, and I enjoy working with technology and building applications. I have experience in Java, React, and MySQL, and I enjoy working on both frontend and backend development.
+              Hello! My name is Omkar, and I enjoy working with technology and building applications.
+              I have hands-on experience in Java, C++, React, and MySQL, and I am comfortable working across both frontend and backend development.
             </p>
-            <p>
-              I like solving problems and understanding how things work behind the scenes, especially in backend development. I am continuously learning and improving my skills in Java Full Stack and cloud technologies to grow as a developer.
-            </p>
-            <p>
-              I am always trying to learn something new and improve my coding skills.            </p>
 
+            <p>
+              I’m especially interested in backend development and enjoy understanding how systems work behind the scenes. I regularly practice Data Structures and Algorithms (DSA) to sharpen my problem-solving skills and write clean, optimized code.
+            </p>
+            <p>
+              I’m always learning and exploring new technologies to grow as a developer.            </p>
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
