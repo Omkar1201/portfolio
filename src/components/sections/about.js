@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['C++', 'Java', 'MySQL', 'HTML', 'CSS', 'JavaScript', 'React js', 'Express js', 'Git', 'SAP'];
+  const skills = ['C++', 'Python', 'MySQL', 'FastAPI', 'Langchain', 'LangGraph', 'RAG', 'React js', 'Express js', 'Git'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,15 +135,16 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Omkar, and I enjoy working with technology and building applications.
-              I have hands-on experience in Java, C++, React, and MySQL, and I am comfortable working across both frontend and backend development.
+              Hello! My name is Omkar, and I enjoy working with technology and building intelligent applications. I have hands-on experience with Java, C++, React, MySQL, and Python, and I’m comfortable working across both frontend and backend development.
             </p>
 
             <p>
-              I’m especially interested in backend development and enjoy understanding how systems work behind the scenes. I regularly practice Data Structures and Algorithms (DSA) to sharpen my problem-solving skills and write clean, optimized code.
+              I’m particularly interested in Generative AI and backend development. I have worked with technologies such as FastAPI, LangChain, LangGraph, embeddings, vector databases, and LLM integration, and I enjoy understanding how AI-powered applications work behind the scenes, especially concepts like RAG and document-based question answering.
+
             </p>
             <p>
-              I’m always learning and exploring new technologies to grow as a developer.            </p>
+              I also practice DSA regularly to improve my problem-solving skills and keep learning new GenAI technologies.
+            </p>
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
